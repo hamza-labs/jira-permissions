@@ -6,6 +6,7 @@ In this markedown, i just show you some best practices to define a permissions s
 ------------------------
 #### Table of Contents
 
+ - [Overview](#overview)
  - [Project permissions](#project-permissions)
  - [Issue permissions](#issue-permissions)
  - [Voters watchers permissions](#voters-watchers-permissions)
