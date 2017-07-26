@@ -4,10 +4,6 @@
 In this markedown, i just show you some best practices to define a permissions scheme in Jira.
 
 ------------------------
-#### Introduction
-In this document we define Renault-Permissions-Roles-Scheme in JIRA.
-
-------------------------
 #### Table of Contents
 
  - [Project permissions](#project-permissions)
